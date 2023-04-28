@@ -34,7 +34,7 @@ Using this library, along with streamlit and minimal (*included*) code, anyone c
 <td>
 <center>
 
-  https://user-images.githubusercontent.com/83509921/235047630-a8623f72-1f10-477a-a614-fe2eb51a0334.mp4
+<video><source src="/pics/ctrldf1.mp4"></video>
 
 - Quick column metrics
 
