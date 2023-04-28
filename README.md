@@ -159,3 +159,6 @@ ctrldf.metrics()
 - [ ] Create large file size detection and implement chunking automatically
 - [ ] Migrate from Pandas to Dask
 - [ ] After Dask migration remove file size limitation
+
+Thank you for viewing my project
+sincerely
