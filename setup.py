@@ -13,7 +13,7 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 # This call to setup() does all the work
 setup(
     name="streamlit_controllerDF",
-    version="0.1.1",
+    version="0.1.2",
     description="A solid base for controlling your data frame, getting quick metrics, and data visualizations using streamlit, pandas, numpy and matplotlib.",
     long_description=long_description,
     long_description_content_type="text/markdown",

@@ -34,19 +34,19 @@ Using this library, along with streamlit and minimal (*included*) code, anyone c
 <td>
 <center>
 
-<img src="/pics/exgif.gif"></img>
+<img src="https://i.imgur.com/U0lIrfy.gif"></img>
 
 - Quick column metrics
 
-  <img src="/pics/ex1.gif"></img>
+  <img src="https://i.imgur.com/RuYRpFY.gif"></img>
 
 - Rapid column filter
 
-  <img src="/pics/ex3.png"></img>
+  <img src="https://i.imgur.com/M0yiOv1.png"></img>
 
 - Instant type based column widgets
 
-  <img src="/pics/ex2.png"></img>
+  <img src="https://i.imgur.com/OaROx3r.png"></img>
 </center>
 
 </table>
@@ -63,17 +63,19 @@ $ pip install streamlit-controllerDF
 
 <i>After you pip install the module</i>
 
-<ins>
+
 
 **Batteries included method:**
 
-</ins>
+
 
 <details><summary>Quick start</summary>
 
 >
-> - `Copy the included test_code.py`
-> - `Rename the file to your projects name`
+> - `Copy the included test_code.py contents`
+> - <a href="https://raw.githubusercontent.com/joshjetson/SCDF/master/test_code.py">test_code here click me</a>
+> - `Create a new python file and paste the contents of test_code.py into it`
+> - `Name the file something you like and then:`
 > ~~~
 > $ streamlit run your_project.py 
 > ~~~
@@ -82,11 +84,11 @@ $ pip install streamlit-controllerDF
 
 </details>
 
-<ins>
+
 
 **Batteries excluded method:**
 
-</ins>
+
 
 <details><summary>Module only</summary>
 
