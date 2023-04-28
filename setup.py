@@ -36,7 +36,7 @@ setup(
     ],
     packages=find_packages(),
     include_package_data=True,
-    install_requires=["streamlit","pandas","matplotlib.pyplot","numpy"],
+    install_requires=["streamlit","pandas","matplotlib","numpy"],
     keywords=['Python','streamlit','dataframe','data frame','data set',
     'visualization','automatic','widgets','automation','machine learning',
     'quick','controller','controllerdf','controllerDF','streamlit controller','streamlit data frame',

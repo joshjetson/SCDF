@@ -56,7 +56,7 @@ Using this library, along with streamlit and minimal (*included*) code, anyone c
 ## Installation
 
 ```
-$ pip install controllerDF
+$ pip install streamlit-controllerDF
 ```
 
 ## Getting started
