@@ -34,7 +34,7 @@ Using this library, along with streamlit and minimal (*included*) code, anyone c
 <td>
 <center>
 
-<video><source src="/pics/ctrldf1.mp4"></video>
+<img src="/pics/exgif.gif"></img>
 
 - Quick column metrics
 
