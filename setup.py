@@ -17,7 +17,7 @@ setup(
     description="A solid base for controlling your data frame, getting quick metrics, and data visualizations using streamlit, pandas, numpy and matplotlib.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/joshjetson",
+    url="https://github.com/joshjetson/SCDF/",
     author="Joshua Dario",
     author_email="joshuajdr@gmail.com",
     license="MIT",
